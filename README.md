@@ -1,2 +1,2 @@
 # librispeech-en
-LibriSpeech dataset from https://www.openslr.org/12
+Test split of the LibriSpeech dataset from https://www.openslr.org/12
